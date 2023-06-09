@@ -29,5 +29,7 @@
     text-decoration: none;
     color: #999999;
     background-color: #ffffff;
-    border: 3px solid #ff9;
+    border: 3px solid #ff914d;
+    cursor: pointer;
+    transition: ease-out 0.5s;
 }
