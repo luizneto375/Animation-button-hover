@@ -32,4 +32,5 @@
     border: 3px solid #ff914d;
     cursor: pointer;
     transition: ease-out 0.5s;
+    -webkit-transition: ease-out 0.5s;
 }
