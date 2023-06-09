@@ -8,11 +8,12 @@
     font-family: 'Kablammo', cursive;
 }
 
+
 .container {
     margin: auto;
     width: 100%;
     text-align: center;
-    font-size: ;
+    font-size: 0;
     font-weight: 400;
     background-color: #ffffff;
 }
@@ -21,4 +22,12 @@
     position: relative;
     display: inline-block;
     margin: 15px;
+    padding: 12px 27px;
+    text-align: center;
+    font-size: 16px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    color: #999999;
+    background-color: #ffffff;
+    border: 3px solid #ff9;
 }
