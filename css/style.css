@@ -9,7 +9,7 @@
 }
 
 
-.container {
+.button1 {
     margin: auto;
     width: 100%;
     text-align: center;
@@ -68,4 +68,11 @@
     width: calc(100% + 15px);
     height: calc(100% + 15px);
     border-color: #42db2b;
+}
+
+.button2 {
+    margin: auto;
+    background-color: #42db2b;
+    width: 15px;
+    height: 25px;
 }
