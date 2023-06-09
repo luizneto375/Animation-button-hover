@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family= Kablammo & display=swap') ;
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Kablammo', cursive;
+}
+
+.container {
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    font-size: 0;
+    font-weight: 400;
+    background-color: #ffffff;
+}
+
+.btn {
+    
+}
